@@ -10,7 +10,11 @@ Pandas
 Plotly
 PDFPlumber
 Scikit-learn
+Live Demo
+https://ai-resume-analyzer-swati.streamlit.app
+
 GitHub Repository
-https://github.com
+https://github.com/8009678200/AI-Resume-Analyzer
+
 Author
-Swati Kosta<
+Swati Kosta
