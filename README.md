@@ -1,17 +1,14 @@
-# AI Resume Analyzer
 
-AI-powered Resume Analyzer built with Python and Streamlit.
+Project Demo
+Features
+✅ ATS Score Analysis ✅ Resume Parsing ✅ Skill Gap Detection ✅ Job Description Matching ✅ Interactive Dashboard ✅ Data Visualization
 
-## Features
-- ATS Score Analysis
-- Resume Parsing
-- Job Description Matching
-- Skill Gap Analysis
-- Interactive Dashboard
-
-## Tech Stack
-- Python
-- Streamlit
-- Plotly
-- Pandas
-- NLP
+Tech Stack
+Python
+Streamlit
+Pandas
+Plotly
+PDFPlumber
+Scikit-learn
+GitHub Repository
+https://github.com
