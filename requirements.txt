@@ -6,3 +6,4 @@ pdfplumber
 nltk
 scikit-learn
 PyPDF2
+
